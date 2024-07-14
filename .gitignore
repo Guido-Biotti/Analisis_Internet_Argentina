@@ -1,8 +1,8 @@
 __pycache__
-data\internet\Accesos por velocidad.csv
-data\internet\Accesos_tecnologia_localidad.csv
-data\internet\Internet.xlsx
-data\internet\Penetración-poblacion.csv
-data\internet\Totales Accesos Por Tecnología.csv
-data\internet\Totales Accesos por velocidad.csv
-data\internet\Velocidad % por prov.csv
+data/Accesos por velocidad.csv
+data/Accesos_tecnologia_localidad.csv
+data/Internet.xlsx
+data/Penetración-poblacion.csv
+data/Totales Accesos Por Tecnología.csv
+data/Totales Accesos por velocidad.csv
+data/Velocidad % por prov.csv
