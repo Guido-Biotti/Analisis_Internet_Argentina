@@ -1,0 +1,921 @@
+,Año,Trimestre,Provincia,Accesos por cada 100 hab
+0,2023,4,Buenos Aires,27.68
+2,2023,4,Catamarca,17.46
+3,2023,4,Chaco,11.85
+4,2023,4,Chubut,26.04
+5,2023,4,Córdoba,27.76
+6,2023,4,Corrientes,13.84
+7,2023,4,Entre Ríos,20.91
+8,2023,4,Formosa,9.98
+9,2023,4,Jujuy,14.77
+10,2023,4,La Pampa,32.93
+11,2023,4,La Rioja,21.35
+12,2023,4,Mendoza,14.55
+13,2023,4,Misiones,15.33
+14,2023,4,Neuquén,23.78
+15,2023,4,Río Negro,21.61
+16,2023,4,Salta,13.8
+17,2023,4,San Juan,12.75
+18,2023,4,San Luis,29.21
+19,2023,4,Santa Cruz,21.94
+20,2023,4,Santa Fe,25.08
+21,2023,4,Santiago Del Estero,12.18
+22,2023,4,Tierra Del Fuego,32.75
+23,2023,4,Tucumán,15.12
+24,2023,3,Buenos Aires,27.5
+26,2023,3,Catamarca,17.44
+27,2023,3,Chaco,11.46
+28,2023,3,Chubut,25.82
+29,2023,3,Córdoba,27.57
+30,2023,3,Corrientes,13.9
+31,2023,3,Entre Ríos,20.58
+32,2023,3,Formosa,9.89
+33,2023,3,Jujuy,14.73
+34,2023,3,La Pampa,32.62
+35,2023,3,La Rioja,21.41
+36,2023,3,Mendoza,14.52
+37,2023,3,Misiones,15.12
+38,2023,3,Neuquén,23.8
+39,2023,3,Río Negro,21.04
+40,2023,3,Salta,13.94
+41,2023,3,San Juan,12.85
+42,2023,3,San Luis,28.2
+43,2023,3,Santa Cruz,12.17
+44,2023,3,Santa Fe,24.87
+45,2023,3,Santiago Del Estero,12.08
+46,2023,3,Tierra Del Fuego,31.41
+47,2023,3,Tucumán,15.17
+48,2023,2,Buenos Aires,27.1
+50,2023,2,Catamarca,17.15
+51,2023,2,Chaco,11.46
+52,2023,2,Chubut,25.28
+53,2023,2,Córdoba,27.59
+54,2023,2,Corrientes,13.79
+55,2023,2,Entre Ríos,19.26
+56,2023,2,Formosa,9.75
+57,2023,2,Jujuy,14.78
+58,2023,2,La Pampa,32.4
+59,2023,2,La Rioja,21.3
+60,2023,2,Mendoza,14.54
+61,2023,2,Misiones,15.03
+62,2023,2,Neuquén,23.5
+63,2023,2,Río Negro,21.09
+64,2023,2,Salta,13.92
+65,2023,2,San Juan,12.1
+66,2023,2,San Luis,26.73
+67,2023,2,Santa Cruz,12.39
+68,2023,2,Santa Fe,24.79
+69,2023,2,Santiago Del Estero,11.7
+70,2023,2,Tierra Del Fuego,31.54
+71,2023,2,Tucumán,15.05
+72,2023,1,Buenos Aires,26.81
+74,2023,1,Catamarca,16.83
+75,2023,1,Chaco,11.53
+76,2023,1,Chubut,26.32
+77,2023,1,Córdoba,27.2
+78,2023,1,Corrientes,13.71
+79,2023,1,Entre Ríos,19.37
+80,2023,1,Formosa,9.87
+81,2023,1,Jujuy,14.88
+82,2023,1,La Pampa,31.81
+83,2023,1,La Rioja,21.23
+84,2023,1,Mendoza,14.34
+85,2023,1,Misiones,14.7
+86,2023,1,Neuquén,23.38
+87,2023,1,Río Negro,21.27
+88,2023,1,Salta,13.97
+89,2023,1,San Juan,12.67
+90,2023,1,San Luis,25.8
+91,2023,1,Santa Cruz,12.92
+92,2023,1,Santa Fe,24.57
+93,2023,1,Santiago Del Estero,11.8
+94,2023,1,Tierra Del Fuego,30.9
+95,2023,1,Tucumán,14.95
+96,2022,4,Buenos Aires,26.72
+98,2022,4,Catamarca,16.73
+99,2022,4,Chaco,11.66
+100,2022,4,Chubut,26.23
+101,2022,4,Córdoba,27.26
+102,2022,4,Corrientes,13.6
+103,2022,4,Entre Ríos,19.14
+104,2022,4,Formosa,10.03
+105,2022,4,Jujuy,14.95
+106,2022,4,La Pampa,31.23
+107,2022,4,La Rioja,21.26
+108,2022,4,Mendoza,14.33
+109,2022,4,Misiones,14.39
+110,2022,4,Neuquén,23.41
+111,2022,4,Río Negro,21.04
+112,2022,4,Salta,14.04
+113,2022,4,San Juan,12.96
+114,2022,4,San Luis,25.83
+115,2022,4,Santa Cruz,12.95
+116,2022,4,Santa Fe,24.65
+117,2022,4,Santiago Del Estero,11.92
+118,2022,4,Tierra Del Fuego,30.07
+119,2022,4,Tucumán,15.12
+120,2022,3,Buenos Aires,26.37
+122,2022,3,Catamarca,16.62
+123,2022,3,Chaco,11.72
+124,2022,3,Chubut,25.86
+125,2022,3,Córdoba,27.04
+126,2022,3,Corrientes,12.69
+127,2022,3,Entre Ríos,19.04
+128,2022,3,Formosa,11.14
+129,2022,3,Jujuy,15.06
+130,2022,3,La Pampa,31.82
+131,2022,3,La Rioja,21.47
+132,2022,3,Mendoza,14.24
+133,2022,3,Misiones,14.11
+134,2022,3,Neuquén,23.92
+135,2022,3,Río Negro,20.91
+136,2022,3,Salta,13.99
+137,2022,3,San Juan,12.94
+138,2022,3,San Luis,23.39
+139,2022,3,Santa Cruz,12.85
+140,2022,3,Santa Fe,24.7
+141,2022,3,Santiago Del Estero,11.91
+142,2022,3,Tierra Del Fuego,29.5
+143,2022,3,Tucumán,15.14
+144,2022,2,Buenos Aires,26.13
+146,2022,2,Catamarca,15.87
+147,2022,2,Chaco,11.7
+148,2022,2,Chubut,25.5
+149,2022,2,Córdoba,26.78
+150,2022,2,Corrientes,12.73
+151,2022,2,Entre Ríos,19.1
+152,2022,2,Formosa,11.05
+153,2022,2,Jujuy,14.66
+154,2022,2,La Pampa,30.63
+155,2022,2,La Rioja,21.33
+156,2022,2,Mendoza,13.78
+157,2022,2,Misiones,13.89
+158,2022,2,Neuquén,23.82
+159,2022,2,Río Negro,20.87
+160,2022,2,Salta,13.94
+161,2022,2,San Juan,12.6
+162,2022,2,San Luis,23.4
+163,2022,2,Santa Cruz,12.84
+164,2022,2,Santa Fe,24.5
+165,2022,2,Santiago Del Estero,11.84
+166,2022,2,Tierra Del Fuego,29.6
+167,2022,2,Tucumán,14.69
+168,2022,1,Buenos Aires,25.56
+170,2022,1,Catamarca,14.81
+171,2022,1,Chaco,11.78
+172,2022,1,Chubut,26.99
+173,2022,1,Córdoba,26.26
+174,2022,1,Corrientes,12.55
+175,2022,1,Entre Ríos,19.05
+176,2022,1,Formosa,8.9
+177,2022,1,Jujuy,14.85
+178,2022,1,La Pampa,30.2
+179,2022,1,La Rioja,20.97
+180,2022,1,Mendoza,13.6
+181,2022,1,Misiones,13.36
+182,2022,1,Neuquén,22.08
+183,2022,1,Río Negro,20.62
+184,2022,1,Salta,13.59
+185,2022,1,San Juan,11.09
+186,2022,1,San Luis,23.1
+187,2022,1,Santa Cruz,12.89
+188,2022,1,Santa Fe,24.31
+189,2022,1,Santiago Del Estero,11.71
+190,2022,1,Tierra Del Fuego,29.14
+191,2022,1,Tucumán,14.22
+192,2021,4,Buenos Aires,25.36
+194,2021,4,Catamarca,14.05
+195,2021,4,Chaco,11.77
+196,2021,4,Chubut,25.31
+197,2021,4,Córdoba,25.87
+198,2021,4,Corrientes,11.98
+199,2021,4,Entre Ríos,18.88
+200,2021,4,Formosa,8.77
+201,2021,4,Jujuy,14.56
+202,2021,4,La Pampa,29.51
+203,2021,4,La Rioja,20.74
+204,2021,4,Mendoza,13.26
+205,2021,4,Misiones,13.36
+206,2021,4,Neuquén,21.82
+207,2021,4,Río Negro,20.21
+208,2021,4,Salta,13.76
+209,2021,4,San Juan,10.08
+210,2021,4,San Luis,22.98
+211,2021,4,Santa Cruz,12.81
+212,2021,4,Santa Fe,24.24
+213,2021,4,Santiago Del Estero,11.68
+214,2021,4,Tierra Del Fuego,29.17
+215,2021,4,Tucumán,13.85
+216,2021,3,Buenos Aires,23.97
+218,2021,3,Catamarca,13.41
+219,2021,3,Chaco,11.48
+220,2021,3,Chubut,24.74
+221,2021,3,Córdoba,24.89
+222,2021,3,Corrientes,11.82
+223,2021,3,Entre Ríos,18.59
+224,2021,3,Formosa,8.64
+225,2021,3,Jujuy,14.24
+226,2021,3,La Pampa,27.77
+227,2021,3,La Rioja,20.57
+228,2021,3,Mendoza,12.71
+229,2021,3,Misiones,12.41
+230,2021,3,Neuquén,20.75
+231,2021,3,Río Negro,19.06
+232,2021,3,Salta,13.55
+233,2021,3,San Juan,10.05
+234,2021,3,San Luis,22.86
+235,2021,3,Santa Cruz,13.02
+236,2021,3,Santa Fe,23.59
+237,2021,3,Santiago Del Estero,11.66
+238,2021,3,Tierra Del Fuego,28.15
+239,2021,3,Tucumán,13.53
+240,2021,2,Buenos Aires,23.35
+242,2021,2,Catamarca,13.31
+243,2021,2,Chaco,11.58
+244,2021,2,Chubut,22.16
+245,2021,2,Córdoba,24.53
+246,2021,2,Corrientes,11.47
+247,2021,2,Entre Ríos,18.44
+248,2021,2,Formosa,8.46
+249,2021,2,Jujuy,14.37
+250,2021,2,La Pampa,27.04
+251,2021,2,La Rioja,20.49
+252,2021,2,Mendoza,11.43
+253,2021,2,Misiones,12.26
+254,2021,2,Neuquén,20.58
+255,2021,2,Río Negro,19.05
+256,2021,2,Salta,13.3
+257,2021,2,San Juan,10.01
+258,2021,2,San Luis,23.89
+259,2021,2,Santa Cruz,13.1
+260,2021,2,Santa Fe,23.6
+261,2021,2,Santiago Del Estero,11.55
+262,2021,2,Tierra Del Fuego,20.13
+263,2021,2,Tucumán,13.61
+264,2021,1,Buenos Aires,23.0
+266,2021,1,Catamarca,12.44
+267,2021,1,Chaco,11.53
+268,2021,1,Chubut,21.15
+269,2021,1,Córdoba,24.06
+270,2021,1,Corrientes,11.23
+271,2021,1,Entre Ríos,18.07
+272,2021,1,Formosa,8.33
+273,2021,1,Jujuy,14.23
+274,2021,1,La Pampa,26.94
+275,2021,1,La Rioja,13.26
+276,2021,1,Mendoza,10.93
+277,2021,1,Misiones,11.76
+278,2021,1,Neuquén,19.9
+279,2021,1,Río Negro,18.72
+280,2021,1,Salta,13.06
+281,2021,1,San Juan,9.95
+282,2021,1,San Luis,23.25
+283,2021,1,Santa Cruz,12.39
+284,2021,1,Santa Fe,23.24
+285,2021,1,Santiago Del Estero,11.33
+286,2021,1,Tierra Del Fuego,22.93
+287,2021,1,Tucumán,13.58
+288,2020,4,Buenos Aires,22.9
+290,2020,4,Catamarca,12.57
+291,2020,4,Chaco,11.5
+292,2020,4,Chubut,20.95
+293,2020,4,Córdoba,23.9
+294,2020,4,Corrientes,11.17
+295,2020,4,Entre Ríos,17.78
+296,2020,4,Formosa,8.27
+297,2020,4,Jujuy,13.67
+298,2020,4,La Pampa,26.94
+299,2020,4,La Rioja,13.34
+300,2020,4,Mendoza,10.78
+301,2020,4,Misiones,11.61
+302,2020,4,Neuquén,19.94
+303,2020,4,Río Negro,18.79
+304,2020,4,Salta,13.09
+305,2020,4,San Juan,9.25
+306,2020,4,San Luis,23.38
+307,2020,4,Santa Cruz,11.01
+308,2020,4,Santa Fe,23.14
+309,2020,4,Santiago Del Estero,10.86
+310,2020,4,Tierra Del Fuego,22.61
+311,2020,4,Tucumán,13.57
+312,2020,3,Buenos Aires,22.41
+314,2020,3,Catamarca,12.0
+315,2020,3,Chaco,11.1
+316,2020,3,Chubut,20.95
+317,2020,3,Córdoba,23.03
+318,2020,3,Corrientes,10.99
+319,2020,3,Entre Ríos,17.4
+320,2020,3,Formosa,8.12
+321,2020,3,Jujuy,13.82
+322,2020,3,La Pampa,26.12
+323,2020,3,La Rioja,13.34
+324,2020,3,Mendoza,10.42
+325,2020,3,Misiones,11.33
+326,2020,3,Neuquén,19.42
+327,2020,3,Río Negro,17.55
+328,2020,3,Salta,12.67
+329,2020,3,San Juan,9.88
+330,2020,3,San Luis,22.88
+331,2020,3,Santa Cruz,10.7
+332,2020,3,Santa Fe,22.68
+333,2020,3,Santiago Del Estero,10.76
+334,2020,3,Tierra Del Fuego,22.77
+335,2020,3,Tucumán,13.18
+336,2020,2,Buenos Aires,21.55
+338,2020,2,Catamarca,11.56
+339,2020,2,Chaco,10.65
+340,2020,2,Chubut,17.58
+341,2020,2,Córdoba,22.26
+342,2020,2,Corrientes,10.61
+343,2020,2,Entre Ríos,16.9
+344,2020,2,Formosa,7.93
+345,2020,2,Jujuy,12.25
+346,2020,2,La Pampa,25.07
+347,2020,2,La Rioja,13.27
+348,2020,2,Mendoza,10.12
+349,2020,2,Misiones,11.14
+350,2020,2,Neuquén,19.02
+351,2020,2,Río Negro,17.34
+352,2020,2,Salta,12.49
+353,2020,2,San Juan,8.94
+354,2020,2,San Luis,22.44
+355,2020,2,Santa Cruz,10.65
+356,2020,2,Santa Fe,22.01
+357,2020,2,Santiago Del Estero,10.79
+358,2020,2,Tierra Del Fuego,22.64
+359,2020,2,Tucumán,12.83
+360,2020,1,Buenos Aires,21.21
+362,2020,1,Catamarca,9.57
+363,2020,1,Chaco,10.02
+364,2020,1,Chubut,15.72
+365,2020,1,Córdoba,21.64
+366,2020,1,Corrientes,10.2
+367,2020,1,Entre Ríos,16.78
+368,2020,1,Formosa,7.69
+369,2020,1,Jujuy,11.93
+370,2020,1,La Pampa,24.96
+371,2020,1,La Rioja,12.34
+372,2020,1,Mendoza,9.25
+373,2020,1,Misiones,10.63
+374,2020,1,Neuquén,18.41
+375,2020,1,Río Negro,16.95
+376,2020,1,Salta,12.01
+377,2020,1,San Juan,8.25
+378,2020,1,San Luis,21.84
+379,2020,1,Santa Cruz,10.7
+380,2020,1,Santa Fe,21.86
+381,2020,1,Santiago Del Estero,10.54
+382,2020,1,Tierra Del Fuego,22.55
+383,2020,1,Tucumán,11.85
+384,2019,4,Buenos Aires,21.14
+386,2019,4,Catamarca,9.27
+387,2019,4,Chaco,9.85
+388,2019,4,Chubut,15.68
+389,2019,4,Córdoba,21.58
+390,2019,4,Corrientes,10.21
+391,2019,4,Entre Ríos,17.34
+392,2019,4,Formosa,7.76
+393,2019,4,Jujuy,11.6
+394,2019,4,La Pampa,25.34
+395,2019,4,La Rioja,12.55
+396,2019,4,Mendoza,9.39
+397,2019,4,Misiones,10.84
+398,2019,4,Neuquén,17.67
+399,2019,4,Río Negro,17.13
+400,2019,4,Salta,12.2
+401,2019,4,San Juan,8.37
+402,2019,4,San Luis,21.44
+403,2019,4,Santa Cruz,10.92
+404,2019,4,Santa Fe,21.85
+405,2019,4,Santiago Del Estero,10.65
+406,2019,4,Tierra Del Fuego,23.63
+407,2019,4,Tucumán,11.8
+408,2019,3,Buenos Aires,22.76
+410,2019,3,Catamarca,7.86
+411,2019,3,Chaco,9.58
+412,2019,3,Chubut,14.58
+413,2019,3,Córdoba,21.0
+414,2019,3,Corrientes,10.13
+415,2019,3,Entre Ríos,17.31
+416,2019,3,Formosa,7.66
+417,2019,3,Jujuy,11.33
+418,2019,3,La Pampa,25.52
+419,2019,3,La Rioja,12.76
+420,2019,3,Mendoza,11.37
+421,2019,3,Misiones,10.71
+422,2019,3,Neuquén,19.09
+423,2019,3,Río Negro,19.51
+424,2019,3,Salta,10.77
+425,2019,3,San Juan,9.44
+426,2019,3,San Luis,24.39
+427,2019,3,Santa Cruz,10.6
+428,2019,3,Santa Fe,21.66
+429,2019,3,Santiago Del Estero,13.73
+430,2019,3,Tierra Del Fuego,28.6
+431,2019,3,Tucumán,9.78
+432,2019,2,Buenos Aires,22.22
+434,2019,2,Catamarca,8.17
+435,2019,2,Chaco,9.13
+436,2019,2,Chubut,14.4
+437,2019,2,Córdoba,20.84
+438,2019,2,Corrientes,10.05
+439,2019,2,Entre Ríos,17.19
+440,2019,2,Formosa,7.74
+441,2019,2,Jujuy,11.38
+442,2019,2,La Pampa,25.4
+443,2019,2,La Rioja,12.97
+444,2019,2,Mendoza,11.37
+445,2019,2,Misiones,10.66
+446,2019,2,Neuquén,18.78
+447,2019,2,Río Negro,18.79
+448,2019,2,Salta,10.15
+449,2019,2,San Juan,9.07
+450,2019,2,San Luis,23.41
+451,2019,2,Santa Cruz,8.58
+452,2019,2,Santa Fe,21.2
+453,2019,2,Santiago Del Estero,13.1
+454,2019,2,Tierra Del Fuego,28.11
+455,2019,2,Tucumán,9.94
+456,2019,1,Buenos Aires,21.64
+458,2019,1,Catamarca,8.19
+459,2019,1,Chaco,8.72
+460,2019,1,Chubut,13.18
+461,2019,1,Córdoba,20.06
+462,2019,1,Corrientes,9.25
+463,2019,1,Entre Ríos,16.98
+464,2019,1,Formosa,7.55
+465,2019,1,Jujuy,11.87
+466,2019,1,La Pampa,25.16
+467,2019,1,La Rioja,13.36
+468,2019,1,Mendoza,10.51
+469,2019,1,Misiones,9.88
+470,2019,1,Neuquén,17.53
+471,2019,1,Río Negro,16.48
+472,2019,1,Salta,9.71
+473,2019,1,San Juan,8.11
+474,2019,1,San Luis,19.27
+475,2019,1,Santa Cruz,7.04
+476,2019,1,Santa Fe,21.06
+477,2019,1,Santiago Del Estero,9.31
+478,2019,1,Tierra Del Fuego,27.68
+479,2019,1,Tucumán,10.31
+480,2018,4,Buenos Aires,21.06
+482,2018,4,Catamarca,8.2
+483,2018,4,Chaco,8.71
+484,2018,4,Chubut,13.06
+485,2018,4,Córdoba,19.93
+486,2018,4,Corrientes,9.1
+487,2018,4,Entre Ríos,16.26
+488,2018,4,Formosa,7.57
+489,2018,4,Jujuy,11.9
+490,2018,4,La Pampa,24.22
+491,2018,4,La Rioja,13.4
+492,2018,4,Mendoza,10.54
+493,2018,4,Misiones,9.38
+494,2018,4,Neuquén,17.58
+495,2018,4,Río Negro,15.95
+496,2018,4,Salta,9.64
+497,2018,4,San Juan,8.13
+498,2018,4,San Luis,19.33
+499,2018,4,Santa Cruz,7.05
+500,2018,4,Santa Fe,20.62
+501,2018,4,Santiago Del Estero,9.28
+502,2018,4,Tierra Del Fuego,27.75
+503,2018,4,Tucumán,10.34
+504,2018,3,Buenos Aires,20.96
+506,2018,3,Catamarca,8.37
+507,2018,3,Chaco,8.63
+508,2018,3,Chubut,17.29
+509,2018,3,Córdoba,19.67
+510,2018,3,Corrientes,9.02
+511,2018,3,Entre Ríos,15.02
+512,2018,3,Formosa,7.53
+513,2018,3,Jujuy,5.95
+514,2018,3,La Pampa,23.64
+515,2018,3,La Rioja,13.51
+516,2018,3,Mendoza,10.6
+517,2018,3,Misiones,8.74
+518,2018,3,Neuquén,18.01
+519,2018,3,Río Negro,15.55
+520,2018,3,Salta,9.55
+521,2018,3,San Juan,8.42
+522,2018,3,San Luis,14.98
+523,2018,3,Santa Cruz,9.74
+524,2018,3,Santa Fe,19.94
+525,2018,3,Santiago Del Estero,9.0
+526,2018,3,Tierra Del Fuego,27.51
+527,2018,3,Tucumán,10.33
+528,2018,2,Buenos Aires,20.37
+530,2018,2,Catamarca,8.36
+531,2018,2,Chaco,8.35
+532,2018,2,Chubut,16.83
+533,2018,2,Córdoba,19.37
+534,2018,2,Corrientes,8.9
+535,2018,2,Entre Ríos,14.71
+536,2018,2,Formosa,7.49
+537,2018,2,Jujuy,5.99
+538,2018,2,La Pampa,23.41
+539,2018,2,La Rioja,13.57
+540,2018,2,Mendoza,10.32
+541,2018,2,Misiones,8.62
+542,2018,2,Neuquén,17.93
+543,2018,2,Río Negro,15.43
+544,2018,2,Salta,9.67
+545,2018,2,San Juan,8.39
+546,2018,2,San Luis,4.34
+547,2018,2,Santa Cruz,9.92
+548,2018,2,Santa Fe,19.68
+549,2018,2,Santiago Del Estero,8.75
+550,2018,2,Tierra Del Fuego,27.16
+551,2018,2,Tucumán,10.28
+552,2018,1,Buenos Aires,20.28
+554,2018,1,Catamarca,8.34
+555,2018,1,Chaco,8.24
+556,2018,1,Chubut,16.47
+557,2018,1,Córdoba,19.45
+558,2018,1,Corrientes,8.6
+559,2018,1,Entre Ríos,14.56
+560,2018,1,Formosa,5.45
+561,2018,1,Jujuy,5.91
+562,2018,1,La Pampa,23.64
+563,2018,1,La Rioja,13.69
+564,2018,1,Mendoza,10.35
+565,2018,1,Misiones,8.43
+566,2018,1,Neuquén,18.31
+567,2018,1,Río Negro,15.32
+568,2018,1,Salta,9.63
+569,2018,1,San Juan,8.31
+570,2018,1,San Luis,4.34
+571,2018,1,Santa Cruz,9.98
+572,2018,1,Santa Fe,19.58
+573,2018,1,Santiago Del Estero,8.68
+574,2018,1,Tierra Del Fuego,19.33
+575,2018,1,Tucumán,10.2
+576,2017,4,Buenos Aires,18.61
+578,2017,4,Catamarca,7.28
+579,2017,4,Chaco,8.23
+580,2017,4,Chubut,15.78
+581,2017,4,Córdoba,19.39
+582,2017,4,Corrientes,8.56
+583,2017,4,Entre Ríos,14.32
+584,2017,4,Formosa,5.41
+585,2017,4,Jujuy,5.82
+586,2017,4,La Pampa,23.41
+587,2017,4,La Rioja,13.73
+588,2017,4,Mendoza,9.3
+589,2017,4,Misiones,8.48
+590,2017,4,Neuquén,18.23
+591,2017,4,Río Negro,15.19
+592,2017,4,Salta,9.64
+593,2017,4,San Juan,7.72
+594,2017,4,San Luis,3.03
+595,2017,4,Santa Cruz,8.6
+596,2017,4,Santa Fe,19.41
+597,2017,4,Santiago Del Estero,7.23
+598,2017,4,Tierra Del Fuego,17.76
+599,2017,4,Tucumán,9.88
+600,2017,3,Buenos Aires,17.94
+602,2017,3,Catamarca,8.27
+603,2017,3,Chaco,8.01
+604,2017,3,Chubut,14.17
+605,2017,3,Córdoba,19.08
+606,2017,3,Corrientes,8.47
+607,2017,3,Entre Ríos,13.74
+608,2017,3,Formosa,5.43
+609,2017,3,Jujuy,5.79
+610,2017,3,La Pampa,22.78
+611,2017,3,La Rioja,13.7
+612,2017,3,Mendoza,9.96
+613,2017,3,Misiones,8.23
+614,2017,3,Neuquén,18.11
+615,2017,3,Río Negro,14.92
+616,2017,3,Salta,9.65
+617,2017,3,San Juan,8.25
+618,2017,3,San Luis,4.43
+619,2017,3,Santa Cruz,9.91
+620,2017,3,Santa Fe,19.15
+621,2017,3,Santiago Del Estero,8.72
+622,2017,3,Tierra Del Fuego,19.49
+623,2017,3,Tucumán,9.83
+624,2017,2,Buenos Aires,18.1
+626,2017,2,Catamarca,6.61
+627,2017,2,Chaco,7.76
+628,2017,2,Chubut,10.9
+629,2017,2,Córdoba,18.06
+630,2017,2,Corrientes,8.27
+631,2017,2,Entre Ríos,13.57
+632,2017,2,Formosa,5.08
+633,2017,2,Jujuy,5.73
+634,2017,2,La Pampa,20.92
+635,2017,2,La Rioja,4.31
+636,2017,2,Mendoza,8.86
+637,2017,2,Misiones,8.2
+638,2017,2,Neuquén,18.43
+639,2017,2,Río Negro,14.16
+640,2017,2,Salta,7.93
+641,2017,2,San Juan,6.87
+642,2017,2,San Luis,2.72
+643,2017,2,Santa Cruz,7.81
+644,2017,2,Santa Fe,16.44
+645,2017,2,Santiago Del Estero,3.5
+646,2017,2,Tierra Del Fuego,20.3
+647,2017,2,Tucumán,9.46
+648,2017,1,Buenos Aires,18.8
+650,2017,1,Catamarca,6.53
+651,2017,1,Chaco,7.65
+652,2017,1,Chubut,10.93
+653,2017,1,Córdoba,17.65
+654,2017,1,Corrientes,8.15
+655,2017,1,Entre Ríos,13.43
+656,2017,1,Formosa,5.05
+657,2017,1,Jujuy,5.82
+658,2017,1,La Pampa,20.65
+659,2017,1,La Rioja,4.31
+660,2017,1,Mendoza,8.89
+661,2017,1,Misiones,8.04
+662,2017,1,Neuquén,18.17
+663,2017,1,Río Negro,14.16
+664,2017,1,Salta,7.89
+665,2017,1,San Juan,6.89
+666,2017,1,San Luis,2.73
+667,2017,1,Santa Cruz,7.89
+668,2017,1,Santa Fe,16.34
+669,2017,1,Santiago Del Estero,3.65
+670,2017,1,Tierra Del Fuego,20.44
+671,2017,1,Tucumán,9.39
+672,2016,4,Buenos Aires,18.58
+674,2016,4,Catamarca,6.72
+675,2016,4,Chaco,7.65
+676,2016,4,Chubut,10.96
+677,2016,4,Córdoba,17.57
+678,2016,4,Corrientes,8.12
+679,2016,4,Entre Ríos,13.45
+680,2016,4,Formosa,5.03
+681,2016,4,Jujuy,5.76
+682,2016,4,La Pampa,20.67
+683,2016,4,La Rioja,4.35
+684,2016,4,Mendoza,8.91
+685,2016,4,Misiones,8.05
+686,2016,4,Neuquén,17.99
+687,2016,4,Río Negro,14.17
+688,2016,4,Salta,7.87
+689,2016,4,San Juan,6.91
+690,2016,4,San Luis,2.74
+691,2016,4,Santa Cruz,7.94
+692,2016,4,Santa Fe,16.35
+693,2016,4,Santiago Del Estero,3.72
+694,2016,4,Tierra Del Fuego,20.57
+695,2016,4,Tucumán,9.35
+696,2016,3,Buenos Aires,18.3
+698,2016,3,Catamarca,6.72
+699,2016,3,Chaco,7.71
+700,2016,3,Chubut,11.04
+701,2016,3,Córdoba,17.79
+702,2016,3,Corrientes,8.16
+703,2016,3,Entre Ríos,13.55
+704,2016,3,Formosa,4.73
+705,2016,3,Jujuy,5.76
+706,2016,3,La Pampa,20.29
+707,2016,3,La Rioja,4.53
+708,2016,3,Mendoza,8.93
+709,2016,3,Misiones,8.12
+710,2016,3,Neuquén,17.86
+711,2016,3,Río Negro,14.22
+712,2016,3,Salta,7.96
+713,2016,3,San Juan,6.94
+714,2016,3,San Luis,2.75
+715,2016,3,Santa Cruz,7.93
+716,2016,3,Santa Fe,16.53
+717,2016,3,Santiago Del Estero,3.79
+718,2016,3,Tierra Del Fuego,20.31
+719,2016,3,Tucumán,9.36
+720,2016,2,Buenos Aires,18.1
+722,2016,2,Catamarca,6.63
+723,2016,2,Chaco,7.64
+724,2016,2,Chubut,11.07
+725,2016,2,Córdoba,17.62
+726,2016,2,Corrientes,8.05
+727,2016,2,Entre Ríos,13.38
+728,2016,2,Formosa,4.93
+729,2016,2,Jujuy,5.6
+730,2016,2,La Pampa,19.91
+731,2016,2,La Rioja,4.49
+732,2016,2,Mendoza,8.97
+733,2016,2,Misiones,7.96
+734,2016,2,Neuquén,17.59
+735,2016,2,Río Negro,14.22
+736,2016,2,Salta,7.77
+737,2016,2,San Juan,6.96
+738,2016,2,San Luis,2.75
+739,2016,2,Santa Cruz,7.96
+740,2016,2,Santa Fe,16.49
+741,2016,2,Santiago Del Estero,3.94
+742,2016,2,Tierra Del Fuego,20.08
+743,2016,2,Tucumán,9.22
+744,2016,1,Buenos Aires,17.54
+746,2016,1,Catamarca,6.61
+747,2016,1,Chaco,7.52
+748,2016,1,Chubut,11.12
+749,2016,1,Córdoba,16.97
+750,2016,1,Corrientes,7.94
+751,2016,1,Entre Ríos,13.14
+752,2016,1,Formosa,4.86
+753,2016,1,Jujuy,5.49
+754,2016,1,La Pampa,19.1
+755,2016,1,La Rioja,4.5
+756,2016,1,Mendoza,8.99
+757,2016,1,Misiones,7.75
+758,2016,1,Neuquén,16.66
+759,2016,1,Río Negro,14.15
+760,2016,1,Salta,7.61
+761,2016,1,San Juan,6.98
+762,2016,1,San Luis,2.75
+763,2016,1,Santa Cruz,8.05
+764,2016,1,Santa Fe,16.16
+765,2016,1,Santiago Del Estero,4.03
+766,2016,1,Tierra Del Fuego,19.65
+767,2016,1,Tucumán,9.13
+768,2015,4,Buenos Aires,17.68
+770,2015,4,Catamarca,6.64
+771,2015,4,Chaco,7.54
+772,2015,4,Chubut,11.21
+773,2015,4,Córdoba,17.47
+774,2015,4,Corrientes,7.95
+775,2015,4,Entre Ríos,13.12
+776,2015,4,Formosa,4.83
+777,2015,4,Jujuy,5.46
+778,2015,4,La Pampa,19.27
+779,2015,4,La Rioja,4.58
+780,2015,4,Mendoza,9.02
+781,2015,4,Misiones,7.77
+782,2015,4,Neuquén,17.23
+783,2015,4,Río Negro,14.19
+784,2015,4,Salta,7.6
+785,2015,4,San Juan,7.01
+786,2015,4,San Luis,2.76
+787,2015,4,Santa Cruz,8.14
+788,2015,4,Santa Fe,16.47
+789,2015,4,Santiago Del Estero,4.2
+790,2015,4,Tierra Del Fuego,19.44
+791,2015,4,Tucumán,9.12
+792,2015,3,Buenos Aires,17.55
+794,2015,3,Catamarca,6.56
+795,2015,3,Chaco,7.45
+796,2015,3,Chubut,11.23
+797,2015,3,Córdoba,17.43
+798,2015,3,Corrientes,7.93
+799,2015,3,Entre Ríos,13.03
+800,2015,3,Formosa,4.78
+801,2015,3,Jujuy,5.42
+802,2015,3,La Pampa,19.06
+803,2015,3,La Rioja,4.55
+804,2015,3,Mendoza,9.04
+805,2015,3,Misiones,7.69
+806,2015,3,Neuquén,16.2
+807,2015,3,Río Negro,14.22
+808,2015,3,Salta,7.53
+809,2015,3,San Juan,7.03
+810,2015,3,San Luis,2.77
+811,2015,3,Santa Cruz,8.16
+812,2015,3,Santa Fe,16.36
+813,2015,3,Santiago Del Estero,4.24
+814,2015,3,Tierra Del Fuego,22.05
+815,2015,3,Tucumán,9.04
+816,2015,2,Buenos Aires,17.33
+818,2015,2,Catamarca,6.48
+819,2015,2,Chaco,7.34
+820,2015,2,Chubut,11.22
+821,2015,2,Córdoba,17.11
+822,2015,2,Corrientes,7.79
+823,2015,2,Entre Ríos,12.84
+824,2015,2,Formosa,4.67
+825,2015,2,Jujuy,5.19
+826,2015,2,La Pampa,18.69
+827,2015,2,La Rioja,4.49
+828,2015,2,Mendoza,9.07
+829,2015,2,Misiones,7.45
+830,2015,2,Neuquén,15.81
+831,2015,2,Río Negro,14.14
+832,2015,2,Salta,7.38
+833,2015,2,San Juan,7.04
+834,2015,2,San Luis,2.78
+835,2015,2,Santa Cruz,8.06
+836,2015,2,Santa Fe,16.09
+837,2015,2,Santiago Del Estero,4.25
+838,2015,2,Tierra Del Fuego,22.1
+839,2015,2,Tucumán,8.84
+840,2015,1,Buenos Aires,17.24
+842,2015,1,Catamarca,6.4
+843,2015,1,Chaco,7.14
+844,2015,1,Chubut,11.59
+845,2015,1,Córdoba,16.79
+846,2015,1,Corrientes,7.64
+847,2015,1,Entre Ríos,12.61
+848,2015,1,Formosa,4.62
+849,2015,1,Jujuy,5.05
+850,2015,1,La Pampa,18.33
+851,2015,1,La Rioja,4.46
+852,2015,1,Mendoza,9.06
+853,2015,1,Misiones,7.19
+854,2015,1,Neuquén,15.53
+855,2015,1,Río Negro,13.99
+856,2015,1,Salta,7.29
+857,2015,1,San Juan,7.04
+858,2015,1,San Luis,2.79
+859,2015,1,Santa Cruz,8.39
+860,2015,1,Santa Fe,15.83
+861,2015,1,Santiago Del Estero,4.24
+862,2015,1,Tierra Del Fuego,22.17
+863,2015,1,Tucumán,8.72
+864,2014,4,Buenos Aires,17.01
+866,2014,4,Catamarca,6.46
+867,2014,4,Chaco,5.81
+868,2014,4,Chubut,12.22
+869,2014,4,Córdoba,16.66
+870,2014,4,Corrientes,6.17
+871,2014,4,Entre Ríos,10.72
+872,2014,4,Formosa,4.55
+873,2014,4,Jujuy,4.98
+874,2014,4,La Pampa,16.82
+875,2014,4,La Rioja,4.5
+876,2014,4,Mendoza,9.06
+877,2014,4,Misiones,6.54
+878,2014,4,Neuquén,15.53
+879,2014,4,Río Negro,13.89
+880,2014,4,Salta,7.1
+881,2014,4,San Juan,7.1
+882,2014,4,San Luis,2.78
+883,2014,4,Santa Cruz,8.16
+884,2014,4,Santa Fe,15.66
+885,2014,4,Santiago Del Estero,4.26
+886,2014,4,Tierra Del Fuego,19.34
+887,2014,4,Tucumán,8.69
+888,2014,3,Buenos Aires,17.26
+890,2014,3,Catamarca,6.27
+891,2014,3,Chaco,5.63
+892,2014,3,Chubut,12.39
+893,2014,3,Córdoba,16.56
+894,2014,3,Corrientes,5.99
+895,2014,3,Entre Ríos,10.43
+896,2014,3,Formosa,4.51
+897,2014,3,Jujuy,4.68
+898,2014,3,La Pampa,18.34
+899,2014,3,La Rioja,4.38
+900,2014,3,Mendoza,8.99
+901,2014,3,Misiones,6.4
+902,2014,3,Neuquén,16.73
+903,2014,3,Río Negro,14.16
+904,2014,3,Salta,7.05
+905,2014,3,San Juan,7.08
+906,2014,3,San Luis,2.77
+907,2014,3,Santa Cruz,8.34
+908,2014,3,Santa Fe,15.44
+909,2014,3,Santiago Del Estero,4.08
+910,2014,3,Tierra Del Fuego,19.34
+911,2014,3,Tucumán,8.38
+912,2014,2,Buenos Aires,16.79
+914,2014,2,Catamarca,6.28
+915,2014,2,Chaco,5.6
+916,2014,2,Chubut,12.7
+917,2014,2,Córdoba,16.37
+918,2014,2,Corrientes,5.95
+919,2014,2,Entre Ríos,10.37
+920,2014,2,Formosa,4.46
+921,2014,2,Jujuy,4.78
+922,2014,2,La Pampa,16.38
+923,2014,2,La Rioja,4.39
+924,2014,2,Mendoza,8.96
+925,2014,2,Misiones,6.37
+926,2014,2,Neuquén,15.14
+927,2014,2,Río Negro,13.95
+928,2014,2,Salta,7.0
+929,2014,2,San Juan,7.08
+930,2014,2,San Luis,2.78
+931,2014,2,Santa Cruz,8.74
+932,2014,2,Santa Fe,15.22
+933,2014,2,Santiago Del Estero,4.14
+934,2014,2,Tierra Del Fuego,19.09
+935,2014,2,Tucumán,8.41
+936,2014,1,Buenos Aires,16.69
+938,2014,1,Catamarca,6.18
+939,2014,1,Chaco,5.55
+940,2014,1,Chubut,12.7
+941,2014,1,Córdoba,16.13
+942,2014,1,Corrientes,5.89
+943,2014,1,Entre Ríos,10.3
+944,2014,1,Formosa,4.44
+945,2014,1,Jujuy,4.72
+946,2014,1,La Pampa,15.99
+947,2014,1,La Rioja,4.35
+948,2014,1,Mendoza,8.93
+949,2014,1,Misiones,6.32
+950,2014,1,Neuquén,14.88
+951,2014,1,Río Negro,13.87
+952,2014,1,Salta,6.98
+953,2014,1,San Juan,7.05
+954,2014,1,San Luis,2.68
+955,2014,1,Santa Cruz,8.68
+956,2014,1,Santa Fe,15.08
+957,2014,1,Santiago Del Estero,4.06
+958,2014,1,Tierra Del Fuego,19.1
+959,2014,1,Tucumán,8.31
