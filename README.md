@@ -35,5 +35,5 @@ Lo primero que hice fue definir los 3 KPIs que iba a usar en este proyecto los q
  Y guardo el resto de archivos sin Outliers para hacer unos graficos iniciales en la misma herramienta.
 
  ### Datos de contacto:
- LinkedIn: [Guido Biotti] ([url]https://www.linkedin.com/in/guido-biotti/)  
+ LinkedIn: [Guido Biotti] ([url](https://www.linkedin.com/in/guido-biotti/))  
  Mail: biottiguido@gmail.com
