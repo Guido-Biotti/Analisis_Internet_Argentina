@@ -33,3 +33,7 @@ Lo primero que hice fue definir los 3 KPIs que iba a usar en este proyecto los q
  ## Cierre
  Ya para terminar guardo datos en archivos kpi con los que luego hago los graficos en Power BI.
  Y guardo el resto de archivos sin Outliers para hacer unos graficos iniciales en la misma herramienta.
+
+ ### Datos de contacto:
+ LinkedIn: [Guido Biotti] ([url]https://www.linkedin.com/in/guido-biotti/)  
+ Mail: biottiguido@gmail.com
